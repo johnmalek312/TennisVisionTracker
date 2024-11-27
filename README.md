@@ -1,6 +1,9 @@
 # Tennis Match Tracker
 
+![Output sample](video.gif)
+
 This project uses computer vision and deep learning to track tennis players and the ball within match footage. It combines YOLO-based models for ball detection and player tracking, along with a ResNet50-based model to detect court keypoints. The system processes video frames, tracks player and ball locations, and visualizes the results with bounding boxes and keypoints.
+
 
 ## Features:
 - **Ball Tracking**: Detect and track the ball using YOLOv5.
